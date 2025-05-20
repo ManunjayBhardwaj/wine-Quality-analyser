@@ -1,8 +1,7 @@
-
 # Clustering on Wine Dataset
 
-Author: **Vaibhav Garg**  
-Roll Number: **102203381**
+Author: **Preet Chaudhary**  
+Roll Number: **102203748**
 
 ## Project Overview
 
@@ -54,10 +53,8 @@ The project collects and displays the clustering performance across all preproce
 2. Run the Python file. It will print the clustering performance table directly.
 ![Clustering Result](img.jpg)
 
-
 ## Image
 ![Clustering Result](clustering_result.jpg)
-
 
 ## License
 
@@ -65,4 +62,4 @@ This project is licensed for educational purposes.
 
 ---
 
-**Developed with ❤️ by Vaibhav Garg**
+**Developed with ❤️ by Preet Chaudhary**
